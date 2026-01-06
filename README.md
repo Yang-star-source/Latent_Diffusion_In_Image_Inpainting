@@ -31,3 +31,5 @@ You can download the trained weights from Google Drive:
 I built a repo that describe how to build Unconditional Image Generation Model , Latent Diffusion from scratch , the Latent Diffusion used for this repo is using exact same weights.
 
 [Check how i build Latent Diffusion from Scratch](https://github.com/Yang-star-source/Latent_Diffusion_From_Scratch)
+
+## Study Resources 
