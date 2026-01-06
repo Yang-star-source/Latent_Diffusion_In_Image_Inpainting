@@ -32,4 +32,11 @@ I built a repo that describe how to build Unconditional Image Generation Model ,
 
 [Check how i build Latent Diffusion from Scratch](https://github.com/Yang-star-source/Latent_Diffusion_From_Scratch)
 
-## Study Resources 
+## Study Resources
+
+### Papers
+* **Denoising Diffusion Probabilistic Models** - [Ho et al. (2020)](https://arxiv.org/abs/2006.11239)
+* **Attention Is All You Need** - [Vaswani et al. (2017)](https://arxiv.org/abs/1706.03762)
+* **High-Resolution Image Synthesis with Latent Diffusion Models** - [Rombach et al. (2021)](https://arxiv.org/abs/2112.10752)
+
+### Video
