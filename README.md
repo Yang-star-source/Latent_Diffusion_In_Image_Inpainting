@@ -28,7 +28,7 @@ You can download the trained weights from Google Drive:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yang-star-source/Latent_Diffusion_In_Image_Inpainting/blob/main/Image_Inpainting.ipynb)
 
 ## How To Build Latent Diffusion ?
-I built a repo that describe how to build Unconditional Image Generation Model , Latent Diffusion from scratch , the Latent Diffusion used for this repo is using exact same weights.
+I built a repo that describe how to build Unconditional Image Generation Model , Latent Diffusion from scratch , the Latent Diffusion used for this repo is using the exact same weights.
 
 [Check how i build Latent Diffusion from Scratch](https://github.com/Yang-star-source/Latent_Diffusion_From_Scratch)
 
