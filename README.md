@@ -5,4 +5,4 @@ Use pretrained latent diffusion model to perform image inpainting tasks.
 
 ## Inference Mode :
 
-![Inpainting Flowchart](gif/inpainting_flowchart.png)
+![Inpainting Flowchart](gif/inpainting.png)
