@@ -25,4 +25,4 @@ You can download the trained weights from Google Drive:
 
 
 ## Codes Implementation
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yang-star-source/Latent_Diffusion_From_Scratch/blob/main/Image_Inpainting.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yang-star-source/Latent_Diffusion_In_Image_Inpainting/blob/main/Image_Inpainting.ipynb)
