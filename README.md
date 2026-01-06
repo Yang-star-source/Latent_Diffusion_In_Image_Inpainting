@@ -40,3 +40,4 @@ I built a repo that describe how to build Unconditional Image Generation Model ,
 * **High-Resolution Image Synthesis with Latent Diffusion Models** - [Rombach et al. (2021)](https://arxiv.org/abs/2112.10752)
 
 ### Video
+* [Inpainting Explanation](https://www.youtube.com/watch?si=lAPbpanbzxL-Uv31&v=RwgzDtmSC5g&feature=youtu.be) - Insightful video
