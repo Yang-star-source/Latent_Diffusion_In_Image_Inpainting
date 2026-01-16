@@ -13,7 +13,8 @@ If need to view the draft and mathematic formula used
 [Click to view the draft](https://1drv.ms/o/c/eae736d6f2d45eed/IgDn5PJJk8yWRLJfj4rN5ZRLAcTmnnWo1ag8RaTFzGBL7g8?e=5EEBHb)
 
 ## Pre-trained Models
-You can download the trained weights from Google Drive:
+You can download the trained weights from Google Drive if needed:
+(Note: If run in Google Colab will auto download the weights)
 
 * **[Download Pre-trained Weights Folder](https://drive.google.com/drive/folders/1EbwM13No2i44OCQbxzMkeORkeEqaT9IU?usp=sharing)**
   * `checkpoint.pth` (VAE Autoencoder)
@@ -25,6 +26,7 @@ You can download the trained weights from Google Drive:
 
 
 ## Codes Implementation
+### Note : For reproducibility purpose , ONLY RUN definition of model and UI cells
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yang-star-source/Latent_Diffusion_In_Image_Inpainting/blob/main/Image_Inpainting.ipynb)
 
 ## How To Build Latent Diffusion ?
